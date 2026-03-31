@@ -9,6 +9,7 @@ body {
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 
 .link {
@@ -160,4 +161,13 @@ button {
 .secondtext {
     font-size: large;
     color: #E5E7EB;
+}
+
+footer {
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 50px;
+
 }

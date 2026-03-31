@@ -1,5 +1,5 @@
 # Project-Landing-Page-
-This project is part of The Odin Project Foundation Course. The landing page that look like this [landing page](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)to understand the use css while building a webpage.
+This project is part of The Odin Project Foundation Course. The landing page that look like this [landing page](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) to understand the use css while building a webpage.
 
 # Skills Learned
 * Working with flexbox.

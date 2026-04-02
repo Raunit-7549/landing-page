@@ -1,12 +1,20 @@
-# Project-Landing-Page-
-This project is part of The Odin Project Foundation Course. The landing page that look like this [landing page](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) to understand the use css while building a webpage.
+# Landing Page Project
 
-# Skills Learned
-* Working with flexbox.
-* Linking the css to the html.
-* Decorating the background and the text.
-* Working with classes.
-* Dividing the webpage in different parts and working with separately.
+A clean and modern landing page built using HTML and CSS. This project focuses on layout design, styling, and creating a visually appealing structure using Flexbox.
 
-# Landing Page Link
+# Features
+- Structured layout with multiple sections
+- Styled buttons and text elements
+- Clean and simple design
+- Use of Flexbox for alignment and layout
+
+# Skills Used
+- HTML5
+- CSS3
+- Flexbox
+
+# Live Demo
 [Click here to view the landing page]( https://raunit-7549.github.io/Project-Landing-Page-/)
+
+# About
+This project was created as part of my web development learning journey to practice building webpage layouts and improving styling skills.
